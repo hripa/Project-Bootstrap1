@@ -1,0 +1,84 @@
+ .body{
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+ }
+ 
+ .size{
+   font-size: 35px;
+   text-align: center;
+   background-color: #A9A9A9;
+   padding: 15px 0;
+ }
+.navv{
+  font-size: 35px;
+  color: blue;
+  padding: 27px 0px;;
+  background-color: #fb9d9b;
+   
+}
+.navv a{
+  margin-left: 45px;
+}
+.navbar-header {
+  padding-left: 100px;
+ 
+  }
+
+
+.logo {
+  line-height: 25px;
+
+ background-color: #fb9d9b;
+ 
+}
+.logo p {
+  font-size: 17px;
+}
+.center{
+  margin: 0 250px;
+  background-color: #d2d2d0;
+}
+.center-left {
+  background-color: #bfbfbf;
+  
+  
+  
+}
+
+.center-top {
+  background-color: #a0a0a0;
+  margin: 20px 0px;
+}
+
+.center-right {
+  background-color: #9198f2;
+}
+
+.title-post p{
+  padding: 20px;
+  font-size: 20px;
+}
+.date p{
+  text-align: right;
+  padding: 20px;
+}
+.images1{
+  background-color: #fdb4cf;
+  margin-top: 50px;
+ 
+ 
+}
+.images1 p{
+  padding: 50px 0;
+  text-align: center;
+}
+.text1{
+  background-color:  #bfbfbf;
+  text-align: center;
+  margin: 100px 0;
+}
+.center-right p {
+ text-align: center;
+}
+
