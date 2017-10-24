@@ -10,75 +10,80 @@
    background-color: #A9A9A9;
    padding: 15px 0;
  }
+
+.logo {
+line-height: 25px;
+ background-color: #fb9d9b;
+}
+
+.logo p {
+  font-size: 17px;
+}
+
 .navv{
   font-size: 35px;
   color: blue;
-  padding: 27px 0px;;
+  padding: 27px 0px;
   background-color: #fb9d9b;
-   
 }
+
 .navv a{
   margin-left: 45px;
 }
 .navbar-header {
-  padding-left: 100px;
- 
-  }
-
-
-.logo {
-  line-height: 25px;
-
- background-color: #fb9d9b;
- 
+  margin-left: 100px;
 }
-.logo p {
-  font-size: 17px;
+
+.bg{
+  background-color: #d2d2d0;
+  height: 900px;
 }
-.center{
-  margin: 0 250px;
+
+.center-left{
+background-color: #bfbfbf;
+height: 450px;
+margin-top: 10px;
+}
+
+.center-center{
   background-color: #d2d2d0;
 }
-.center-left {
-  background-color: #bfbfbf;
-  
-  
-  
-}
 
-.center-top {
-  background-color: #a0a0a0;
-  margin: 20px 0px;
-}
-
-.center-right {
+.center-right{
   background-color: #9198f2;
+  margin-left: 80px;
+  height: 450px;  
+  margin-top: 10px;
+}
+.center-right{
+  text-align: center;
 }
 
-.title-post p{
-  padding: 20px;
-  font-size: 20px;
+.title{
+  background-color: #a0a0a0;
+  margin-top: 25px;
 }
+
+.post p{
+  font-size: 25px;
+  padding:  25px;
+}
+
 .date p{
+  font-size: 20px;
   text-align: right;
-  padding: 20px;
-}
-.images1{
-  background-color: #fdb4cf;
-  margin-top: 50px;
- 
- 
-}
-.images1 p{
-  padding: 50px 0;
-  text-align: center;
-}
-.text1{
-  background-color:  #bfbfbf;
-  text-align: center;
-  margin: 100px 0;
-}
-.center-right p {
- text-align: center;
+  padding-top: 25px; 
 }
 
+.images{
+  background-color: #fdb4cf;
+  text-align: center;
+  padding: 60px 0;
+  margin-top: 40px;
+}
+
+.text{
+  text-align: center;
+  margin-top: 70px;
+  font-size: 25px;
+}
