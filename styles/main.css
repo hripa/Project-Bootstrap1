@@ -9,6 +9,7 @@
    text-align: center;
    background-color: #A9A9A9;
    padding: 15px 0;
+
  }
 
 .logo {
@@ -54,9 +55,10 @@ margin-top: 10px;
   margin-left: 80px;
   height: 450px;  
   margin-top: 10px;
-}
-.center-right{
   text-align: center;
+}
+.center-right h1{
+  margin-bottom: 80px;
 }
 
 .title{
@@ -86,4 +88,26 @@ margin-top: 10px;
   text-align: center;
   margin-top: 70px;
   font-size: 25px;
+}
+.nav-text{
+  font-size: 20px;
+  margin: 25px;
+}
+.title-3{
+  background-color: #bfbfbf;
+}
+.title0 {
+  background-color: #fdb4cf;
+  text-align: center;
+
+}
+.title1{
+  background-color: #fdb4cf;
+  text-align: center;
+
+}
+.title2{
+  background-color: #fdb4cf;
+  text-align: center;
+
 }
