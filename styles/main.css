@@ -134,11 +134,12 @@
   background-color: #5a67f3;
   font-size: 25px;
   padding: 25px 0;
+  text-align: center;
 }
 
 .footer a{
   color: black;
-  padding-left: 200px;
+ 
  
 }
 .footer a:hover{
@@ -148,6 +149,6 @@
 
 #namber{
   text-align: right;
-  padding-right: 400px;
+  padding-right: 100px;
   
 }
