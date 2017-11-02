@@ -5,33 +5,19 @@
  }
  
  .size{
-   font-size: 35px;
+   font-size: 1.9em;
    text-align: center;
-   background-color: #A9A9A9;
-   padding: 15px 0;
  }
 
-.logo {
- line-height: 25px;
- background-color: #fb9d9b;
+.hd-grey {
+  background-color: #A9A9A9;
 }
 
-.logo p {
-  font-size: 17px;
-}
-
-.navv{
-  font-size: 35px;
-  color: blue;
-  padding: 27px 0px;
+.hd-pink {
   background-color: #fb9d9b;
 }
-
-.navv a{
-  margin-left: 45px;
-}
-.navbar-header {
-  margin-left: 100px;
+.navbar-nav{
+  padding-top: 25px;
 }
 
 .bg{
